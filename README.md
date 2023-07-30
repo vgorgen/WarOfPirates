@@ -51,6 +51,10 @@ Pirates' War is the result of the hard work and dedication of our talented devel
 
 - Veysel Gorgen
 - Eren Sisman
+  
+|     |     |
+| --- | --- |
+| ![Veysel Görgen](https://avatars.githubusercontent.com/u/92218276?s=400&u=fc273166491e26ed615ab53bca7820f43b9f230e&v=4)<br />**Veysel Görgen**<br />[💻 ⚠️ 🐛](https://github.com/amplication/amplication/commits?author=vgorgen) | ![Eren Sisman](https://avatars.githubusercontent.com/u/93434398?v=4) <br />**Eren Şişman**<br />[💻 ⚠️ 🐛]([https://github.com/amplication/amplication/commits?author=ERENSISMAN61](https://github.com/ERENSISMAN61)) |
 
 A big thank you to our supportive community for helping us shape the game into what it is today! Your passion and enthusiasm motivate us to keep improving Pirates' War.
 
